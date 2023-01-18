@@ -2,15 +2,19 @@ body {
     font-family: arial;
 }
 
-h1 {
+h2 {
 
     text-align: center;
 }
 
 #p1 {
-    margin-top: 25px;
+
     color: darkgreen;
-    text-align: center;
+}
+
+.container {
+
+    border: 1px (solid, black);
 }
 
 #ack {
